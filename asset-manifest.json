@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/npm-find-name/static/js/main.6e58ecc2.chunk.js",
+    "main.js.map": "/npm-find-name/static/js/main.6e58ecc2.chunk.js.map",
+    "runtime-main.js": "/npm-find-name/static/js/runtime-main.23a52f6e.js",
+    "runtime-main.js.map": "/npm-find-name/static/js/runtime-main.23a52f6e.js.map",
+    "static/css/2.09ae8418.chunk.css": "/npm-find-name/static/css/2.09ae8418.chunk.css",
+    "static/js/2.59676785.chunk.js": "/npm-find-name/static/js/2.59676785.chunk.js",
+    "static/js/2.59676785.chunk.js.map": "/npm-find-name/static/js/2.59676785.chunk.js.map",
+    "index.html": "/npm-find-name/index.html",
+    "precache-manifest.2d79a90a9b5432024f9c350baad22c73.js": "/npm-find-name/precache-manifest.2d79a90a9b5432024f9c350baad22c73.js",
+    "service-worker.js": "/npm-find-name/service-worker.js",
+    "static/css/2.09ae8418.chunk.css.map": "/npm-find-name/static/css/2.09ae8418.chunk.css.map",
+    "static/media/Npm-logo.svg": "/npm-find-name/static/media/Npm-logo.6f7aeee8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23a52f6e.js",
+    "static/css/2.09ae8418.chunk.css",
+    "static/js/2.59676785.chunk.js",
+    "static/js/main.6e58ecc2.chunk.js"
+  ]
+}
